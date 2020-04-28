@@ -26,9 +26,32 @@ run/
 out/
 eclipse/
 temp/
+bin/
 
 # IntelliJ
-wolfarmor-*.iws
+*.iws
+*.ipr
+*.iml
+.idea/
+
+#Visual Studio
+.vs/
+
+#vscode
+.vscode/
+bin/
+
+#eclipse
+.settings/
+*.launch
+.classpath
+.project
 
 # Misc
-.settings/
+CREDITS-fml.txt
+LICENSE-new.txt
+MinecraftForge-Credits.txt
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+README.txt
+forge-*-changelog.txt
